@@ -8,3 +8,5 @@ Theo báo cáo từ Chính Phủ, từ đầu năm 2015 tới giữa năm 2019 �
     Ý tưởng thực hiện dự án:
                                                    
 Tạo ra một chiếc vòng tay có thể định vị GPS và đo mạch đập của người đeo, phân tích nhịp tim, gửi thông báo đi khi người đeo có dấu hiệu rơi vào tình trạng bất thường, hoảng loạn hoặc các tình huống nguy hiểm khác. Phát ra âm thanh trong trường hợp khẩn cấp. 
+
+    Danh Nghiệp:ABC (anti-abusing child).
